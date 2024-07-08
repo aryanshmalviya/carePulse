@@ -1,6 +1,7 @@
+import { Button } from "@/components/ui/button";
 
 export default function Home() {
   return (
-    <div className="text-3xl underline">Hello Niggas</div>
+    <Button>Click fucking me !</Button>
   );
 }
