@@ -32,7 +32,7 @@ export default function Home() {
         alt="patientC"
         height={1000}
         width={1000}
-        className="side-img max-w-[50%]"
+        className="side-img max-w-[390px]"
       />
     </div>
   );

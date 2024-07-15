@@ -87,7 +87,6 @@ const PatientForm = () => {
             placeholder='Enter your mobile no.'
             iconSrc="/assets/icons/user.svg"
             iconAlt="user"
-
           />
           <SubmitButton isLoading={isLoading}>Submit</SubmitButton>
         </form>
